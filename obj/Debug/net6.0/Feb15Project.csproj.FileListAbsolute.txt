@@ -1,0 +1,14 @@
+D:\mphasis\15Feb\Feb15Project\Feb15Project\bin\Debug\net6.0\Feb15Project.exe
+D:\mphasis\15Feb\Feb15Project\Feb15Project\bin\Debug\net6.0\Feb15Project.deps.json
+D:\mphasis\15Feb\Feb15Project\Feb15Project\bin\Debug\net6.0\Feb15Project.runtimeconfig.json
+D:\mphasis\15Feb\Feb15Project\Feb15Project\bin\Debug\net6.0\Feb15Project.dll
+D:\mphasis\15Feb\Feb15Project\Feb15Project\bin\Debug\net6.0\Feb15Project.pdb
+D:\mphasis\15Feb\Feb15Project\Feb15Project\obj\Debug\net6.0\Feb15Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\15Feb\Feb15Project\Feb15Project\obj\Debug\net6.0\Feb15Project.AssemblyInfoInputs.cache
+D:\mphasis\15Feb\Feb15Project\Feb15Project\obj\Debug\net6.0\Feb15Project.AssemblyInfo.cs
+D:\mphasis\15Feb\Feb15Project\Feb15Project\obj\Debug\net6.0\Feb15Project.csproj.CoreCompileInputs.cache
+D:\mphasis\15Feb\Feb15Project\Feb15Project\obj\Debug\net6.0\Feb15Project.dll
+D:\mphasis\15Feb\Feb15Project\Feb15Project\obj\Debug\net6.0\refint\Feb15Project.dll
+D:\mphasis\15Feb\Feb15Project\Feb15Project\obj\Debug\net6.0\Feb15Project.pdb
+D:\mphasis\15Feb\Feb15Project\Feb15Project\obj\Debug\net6.0\Feb15Project.genruntimeconfig.cache
+D:\mphasis\15Feb\Feb15Project\Feb15Project\obj\Debug\net6.0\ref\Feb15Project.dll
